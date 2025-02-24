@@ -1,0 +1,91 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+
+ul {
+    text-decoration: none;
+}
+
+nav,
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: white;
+}
+
+#imgnav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.navimg {
+    color: #0077b6;
+    font-weight: bolder;
+}
+
+#hgh {
+    color: #0077b6;
+    font-weight: bolder;
+}
+
+.pg {
+    font-size: 50px;
+    font-weight: 600;
+
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.heroimg img {
+    float: right;
+}
+
+
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    transition: ease-in-out 0.3s;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#navbtn {
+    background-color: white;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#navbtn a {
+    color: black;
+    text-decoration: none;
+}
+
+
+#navbtn,
+a:hover {
+    text-decoration: none;
+}
