@@ -51,8 +51,6 @@ nav{
 .hero-leftpart-buttons{
     display: flex;
     gap : 1rem;
-
-
 }
 
 .hero-leftpart-buttons button{ 
@@ -109,9 +107,10 @@ a:hover {
     font-weight:600;
 }
 #lorem{
-    font-size:30px;
+    font-size:20px;
     font-weight:200;
     font-size: large;
+    
 }
 #tent{
     text-align: center;
@@ -123,4 +122,66 @@ a:hover {
 #sunimage p{
     display :flex;
     justify-items: center;
+}
+.sunimage-text{
+    display: flex;
+    justify-content: center;
+}
+.sunimage-text img{
+    margin-top: -10px;
+}
+#lorem{
+    margin-top: -20px;
+    font-size: larger;
+    padding-top: 20px;
+}
+.tent-image{
+    justify-content: center;
+}
+.services {
+    color: #0077b6;
+    font-weight: bolder; 
+    margin: 120px 120px
+}
+#services p{
+    colour :#24242b
+}
+.services h4 {
+    color: #24242b;
+
+}
+.service-one{
+    display: flex;
+    margin: 120px 120px;
+    justify-content : space-between;
+}
+.service-text h2{
+    color: #24242b;
+    font-weight : 200;
+}
+.service-one-image{
+    float: right;
+    margin-right: -1000;
+}
+#About-botton{
+    color: white;
+    padding: 15px 20px;
+    margin-top: 40px;
+    background-color: #2296ea;
+    border: none;
+    
+}
+.botton{
+    margin-top:40px;
+}
+
+.service-two{
+    display: flex;
+    margin: 120px 120px;
+    justify-content : space-between;
+}
+.service-three{
+    display: flex;
+    margin: 120px 120px;
+    justify-content : space-between;
 }
