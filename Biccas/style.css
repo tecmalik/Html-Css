@@ -1,0 +1,127 @@
+*{
+    padding:0;
+    margin :0;
+    box-sizing : border;
+}
+
+.logo h1{
+    color:#54BD95;
+    font-family: inter;
+    font-size: 50px;
+    width : 600;
+    line-height: 30px;
+    font-size: 50px;
+
+
+}
+.Wrapper{
+    padding:50px 150px;
+
+}
+.navBar{
+    display:flex;
+    justify-content: space-between;
+    height: 50px;
+    align-content: center;
+    padding : -20 59px;
+
+}
+.navLinks ul {
+    justify-content:space-between;
+    width :508px;
+    display :flex;
+    align-items : center;
+    height: 22px;
+    left: 629;
+
+}
+.rightNav{
+    display:flex;
+    justify-content: center;
+    width :60px;
+    justify-content: space-between;
+
+}
+.signupbutton{
+    color: #F8F8FA;
+    width: 80px;
+    height: 40px;
+    background-color: #54BD95;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+    
+}
+.Loggin ul{
+    padding-top: 10px;
+
+}
+.hero{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+
+    
+}
+.tineyText{
+    font-size: 18px;
+    font-weight : 400px;
+    width: 461px;
+
+}
+.heroLargeText H1 {
+    font-size:80px;
+    line-height: 90px;
+    Width :555px;
+    Height :270px;
+    Top :64px;
+    Font : inter;
+    Size :80px;
+    Line-height :90px;
+    Letter-spacing :0%
+
+} 
+.smallImage{
+    Width :479px;
+    Height :26px;
+    Top : 364px;
+    Border :8px;
+    
+
+}
+#lineimage{
+    Width :479px;
+    Height :26px;
+    Top : 364px;
+    Border :8px;
+
+}
+.heroImage{
+    Width :701.68px;
+    Height : 558.99px;
+    Top : 32px;
+    Left :611px;
+}
+.LowerImages{
+    display: flex;
+}
+.TrialBotton{
+    color: #F8F8FA;;
+    Width:165px;
+    Height:62px;
+    Top : 580px;
+    border-radius:40px;
+    background-color: #54BD95;
+    border: none;
+   
+
+}
+.playBotton{
+    color: #F8F8FA;;
+    Width:165px;
+    Height:62px;
+    Top : 580px;
+    border-radius:40px;
+    background-color: #54BD95;
+    border: none;
+}

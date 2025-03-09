@@ -185,3 +185,23 @@ a:hover {
     margin: 120px 120px;
     justify-content : space-between;
 }
+.board-botton{
+    color: #24242b;
+    padding: 15px 20px;
+    margin-top: 40px;
+    background-color: #FFFFFF;
+    border: none;
+}
+.board-text h2{
+    color: #FFFFFF;
+    font-weight : 200;
+}
+.blue-board{
+    justify-content: space-between;
+    display: flex;
+    margin: 120px 120px;
+}
+.blue{
+    border:blue ;
+    
+}
