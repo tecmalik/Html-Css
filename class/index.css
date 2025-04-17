@@ -22,8 +22,10 @@
     text-align: center;
 }
 .products{
-    display: flex;
-    justify-content: space-between;
+    /* display: flex; */
+    display: grid;
+    /* justify-content: space-between; */
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .product img{
     width: 200px;
